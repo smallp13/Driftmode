@@ -1,4 +1,4 @@
-## Drift Mode Script
+## FiveM Drift Mode Script
 
 Drift-mode script for fiveM. Press `Z` to toggle drift mode on/off
 
